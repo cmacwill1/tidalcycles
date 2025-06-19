@@ -2,7 +2,7 @@
   description = "A Tidal Cycles project. https://tidalcycles.org/";
 
   inputs = {
-    tidal.url = "github:mitchmindtree/tidalcycles.nix";
+    tidal.url = "github:cmacwill1/tidalcycles";
     utils.url = "github:numtide/flake-utils";
   };
 
